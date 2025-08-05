@@ -8,8 +8,6 @@
 stream_3data000000.ts
 #EXTINF:2.000000,
 stream_3data000001.ts
-#EXTINF:2.000000,
+#EXTINF:1.208333,
 stream_3data000002.ts
-#EXTINF:1.791667,
-stream_3data000003.ts
 #EXT-X-ENDLIST

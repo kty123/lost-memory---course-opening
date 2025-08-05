@@ -5,11 +5,9 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:2.000000,
-stream_1data000000.ts
+stream_2data000000.ts
 #EXTINF:2.000000,
-stream_1data000001.ts
-#EXTINF:2.000000,
-stream_1data000002.ts
-#EXTINF:1.791667,
-stream_1data000003.ts
+stream_2data000001.ts
+#EXTINF:1.208333,
+stream_2data000002.ts
 #EXT-X-ENDLIST
